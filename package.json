@@ -1,0 +1,32 @@
+{
+  "name": "form_autocomp",
+  "version": "1.0.8",
+  "description": "AutoComplete Website Formulary and create the result as an body array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "website",
+    "body",
+    "jssoup",
+    "parsing",
+    "autocomplete",
+    "autoform",
+    "autofill",
+    "Forms",
+    "html form",
+    "form auto complete",
+    "auto complete form",
+    "form complete",
+    "form auto fill",
+    "auto filling forms",
+    "forms completion"
+  ],
+  "author": "Flysre",
+  "license": "ISC",
+  "dependencies": {
+    "jssoup": "0.0.12"
+  }
+}
